@@ -1,3 +1,3 @@
-nome=input("insira o nome do usuario")
-idade=int(input("insira a idade do usuario"))
-print(f"ola {nome}, {idade} anos")
+nome=input("insira seu nome")
+idade=int(input("insira sua idade"))
+print(f"Ola,{nome}! Voce tem {idade}anos")

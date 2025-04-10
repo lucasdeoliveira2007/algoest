@@ -1,5 +1,5 @@
-senha_certa="10234"
-nome_certo="beatriz"
+senha_certa="1986"
+nome_certo="Lucas"
 nome=int(input("insira o nome de usuário"))
 senha=int(input("insira a sua senha"))
 if nome == nome_certo and senha_certa == senha:
